@@ -1,0 +1,152 @@
+@import "./../../remax-styles.wxss";
+.infoBlock___1iRdi {
+  margin-top: 20rpx;
+}
+
+.details___2XY_C {
+}
+.row___22oPd {
+  margin-bottom: 20rpx;
+}
+
+.avatarWrapper___2zVWa {
+  height: 200rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.nickname___3cf2g {
+  font-size: 37rpx;
+}
+
+.field___ADQet {
+  font-size: 30rpx;
+  color: gray;
+}
+
+.fieldValue___fCxdi {
+  font-size: 30rpx;
+}
+
+.selectors___3RGLf {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  flex-wrap: wrap;
+  margin-bottom: -10rpx;
+}
+
+.selectors___3RGLf > .sbutton___2n4OO {
+  min-width: 100rpx;
+  margin-right: 10rpx;
+  margin-bottom: 10rpx;
+}
+
+.block___1Cc5B {
+}
+
+.block___1Cc5B > .title___2HsYo {
+  font-size: 28rpx;
+  margin-top: 35rpx;
+  margin-bottom: 30rpx;
+}
+
+.block___1Cc5B > .content___1GJfN {
+  margin-left: 28rpx;
+}
+
+.filters___2kC60 {
+}
+
+.filters___2kC60 > .buttonGroup___2mObX {
+  margin-top: 40rpx;
+  width: 100%;
+  display: inline-flex;
+  justify-content: center;
+}
+
+.filters___2kC60 > .buttonGroup___2mObX > .resetButton___3Oo9f {
+  width: 300rpx;
+  border-top-right-radius: 0rpx;
+  border-bottom-right-radius: 0rpx;
+}
+
+.filters___2kC60 > .buttonGroup___2mObX > .searchButton___2qR6P {
+  width: 300rpx;
+  border-top-left-radius: 0rpx;
+  border-bottom-left-radius: 0rpx;
+}
+
+.searchLine___2ZUzy {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.searchLine___2ZUzy > .searchBarWrapper___3xMHC {
+  display: inline-block;
+  width: calc(100% - 100rpx);
+}
+
+.searchLine___2ZUzy > .searchFiltersButton___1mhcs {
+  display: inline-block;
+  margin: 0;
+}
+
+.home___Izs7x {
+  padding: 28rpx;
+}
+
+.searchLine___up7rR {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.searchLine___up7rR > .searchBarWrapper___SjomB {
+  display: inline-block;
+  width: calc(100% - 100rpx);
+}
+
+.searchLine___up7rR > .searchFiltersButton___1Y3Yj {
+  display: inline-block;
+  margin: 0;
+}
+
+.scrollView___1sIjy {
+  height: 100%;
+  overflow-scrolling: auto;
+}
+
+.error___2U720 {
+  padding: 80rpx 40rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.errorTitle___2n0HF {
+  margin-bottom: 40rpx;
+  text-align: center;
+}
+
+.buttonWrapper___3Ke3Y {
+  position: relative;
+  width: fit-content;
+  height: fit-content;
+}
+
+.getUserInfo___7-Sty {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+}
+

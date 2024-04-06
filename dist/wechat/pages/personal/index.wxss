@@ -1,0 +1,79 @@
+@import "./../../remax-styles.wxss";
+.info___3eD7u {
+  margin-top: 30rpx;
+  margin-bottom: 20rpx;
+}
+
+.avatarWrapper___1cjRs {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.nickname___3b2I4 {
+  font-size: 40rpx;
+}
+.roaw___2s5Bc {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-content: flex-start;
+}
+
+.personalInfo___Hos87 {
+  padding: 0;
+  border: none;
+  margin: 0;
+
+  font-size: 30rpx;
+  color: #ff892b;
+}
+
+.actions___1sTCc {
+  margin-top: 20rpx;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.action___1hlki {
+  position: relative;
+  padding: 0;
+  margin: 0;
+  border: none;
+  background-color: transparent;
+
+  font-size: 28rpx;
+
+  height: 100rpx;
+  width: 150rpx;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.actionText___32dpw {
+  margin-top: 15rpx;
+  color: #606060;
+}
+
+.wxContact___S8grx {
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100rpx;
+  width: 150rpx;
+  opacity: 0;
+}
+
+
+
+.wrapper___2gzO2 {
+    padding: 28rpx;
+}
+

@@ -1,0 +1,16 @@
+.searchLine {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.searchLine > .searchBarWrapper {
+  display: inline-block;
+  width: calc(100% - 100px);
+}
+
+.searchLine > .searchFiltersButton {
+  display: inline-block;
+  margin: 0;
+}

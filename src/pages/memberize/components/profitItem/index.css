@@ -1,0 +1,35 @@
+.wrapper {
+  position: relative;
+  width: 100%;
+}
+
+.bg {
+  display: block;
+  position: absolute;
+
+  top: 0;
+  left: 0;
+
+  width: 100px;
+  height: 100px;
+}
+
+.icon {
+  display: block;
+  position: absolute;
+
+  top: 27px;
+  left: 10px;
+
+  color: #ffffff;
+}
+
+.tw {
+  display: block;
+  position: relative;
+  width: calc(100% - 70px);
+  height: calc(100% - 50px);
+
+  top: 30px;
+  left: 70px;
+}

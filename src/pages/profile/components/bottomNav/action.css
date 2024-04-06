@@ -1,0 +1,40 @@
+.wrapper {
+  display: block;
+  position: relative;
+  background: #eaecee;
+  padding: 40px 30px 30px;
+}
+
+.row1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.row2 {
+  margin-top: 20px;
+  color: #606060;
+}
+
+.leftCorner {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  left: 0;
+  top: 0;
+}
+
+.buttonWrapper {
+  position: relative;
+}
+
+.buttonWrapper > .share {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+}

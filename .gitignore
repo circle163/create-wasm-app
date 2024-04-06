@@ -1,0 +1,9 @@
+dist
+node_modules
+idea
+.DS_*
+*.aml
+.*.swp
+.idea
+yarn-error.log
+yarn.lock

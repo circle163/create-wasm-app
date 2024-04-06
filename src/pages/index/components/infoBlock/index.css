@@ -1,0 +1,30 @@
+.infoBlock {
+  margin-top: 20px;
+}
+
+.details {
+}
+.row {
+  margin-bottom: 20px;
+}
+
+.avatarWrapper {
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.nickname {
+  font-size: 37px;
+}
+
+.field {
+  font-size: 30px;
+  color: gray;
+}
+
+.fieldValue {
+  font-size: 30px;
+}

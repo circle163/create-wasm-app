@@ -1,0 +1,26 @@
+.kefu {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.kefu > .qr {
+}
+
+.kefu > .note {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 20px;
+}
+
+.kefu > .note > .title {
+  font-weight: 500;
+  margin-bottom: 16px;
+}
+
+.kefu > .note > .content {
+}

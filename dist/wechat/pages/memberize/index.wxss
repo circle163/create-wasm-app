@@ -1,0 +1,138 @@
+@import "./../../remax-styles.wxss";
+.wrapper___z1VSO {
+  position: relative;
+  width: 100%;
+}
+
+.bg___335bi {
+  display: block;
+  position: absolute;
+
+  top: 0;
+  left: 0;
+
+  width: 100rpx;
+  height: 100rpx;
+}
+
+.icon___24vf2 {
+  display: block;
+  position: absolute;
+
+  top: 27rpx;
+  left: 10rpx;
+
+  color: #ffffff;
+}
+
+.tw___3FQgo {
+  display: block;
+  position: relative;
+  width: calc(100% - 70rpx);
+  height: calc(100% - 50rpx);
+
+  top: 30rpx;
+  left: 70rpx;
+}
+
+
+.wrapper___3JyVI {
+    position: relative;
+    padding: 28rpx;
+}
+
+.title___RoAeH {
+}
+
+.titleText___1fW4x {
+    font-size: 40rpx;
+}
+
+.titleBlueText___3F3_T {
+    background: linear-gradient(to top, #1D60AF 0%, #03A9F4 40%, transparent 50%);
+}
+
+.titleRedText___3pKjb {
+    background: linear-gradient(to top, #D0021B 0%, #FC737E 40%, transparent 50%);
+}
+
+.titleYellowText___106AG {
+    background: linear-gradient(to top, #FF8500 0%, #FAD961 40%, transparent 50%);
+}
+
+.profits___1geiX {
+    padding: 34rpx;
+}
+
+.gap___1rXx8 {
+    height: 20rpx;
+}
+
+.wrapper___3l_k6 {
+  position: relative;
+  height: 136rpx;
+  width: 480rpx;
+  border-radius: 34rpx;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper___3l_k6 > .text___KMIhw {
+  font-size: 50rpx;
+  font-weight: bolder;
+  color: #ff1c1f;
+}
+
+.wrapper___3l_k6 > .wxbtn___2Z2py {
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+
+.user___2JuKF {
+    margin-top: 40rpx;
+    margin-bottom: 40rpx;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+
+    padding-left: 62rpx;
+}
+
+.user___2JuKF > .text___3E0oe {
+    margin-left: 40rpx;
+    margin-right: 20rpx;
+    font-size: 40rpx;
+    font-weight: bold;
+}
+
+.profits___2czXg {
+    margin-bottom: 96rpx;
+}
+
+.navbar___1RII6 {
+    display: flex;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 96rpx;
+    width: 100%;
+    box-shadow: 0rpx 2rpx 20rpx 0rpx #eaecee;
+
+    background-color: #ffffff;
+    /*border-top: #606060 1px solid;*/
+
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+

@@ -1,0 +1,20 @@
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.prefix {
+  margin-right: 5px;
+  font-weight: bold;
+}
+
+.text {
+  color: #ff1c1f;
+}
+
+.button {
+  margin-left: 10px;
+  border: #d0d0d0 1px solid;
+}

@@ -1,0 +1,18 @@
+
+.navButton {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    color: #606060;
+}
+
+.navButton > .text {
+    margin-top: 10px;
+}
+
+.highlight {
+    color: #03a9f4;
+    text-shadow:  #03a9f4 0px 2px 20px 0px;
+}

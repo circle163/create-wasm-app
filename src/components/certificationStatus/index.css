@@ -1,0 +1,14 @@
+.status {
+  width: 112px;
+  height: 30px;
+}
+
+.smallStatus {
+  width: 75px;
+  height: 20px;
+}
+
+.largeStatus {
+  width: 150px;
+  height: 40px;
+}

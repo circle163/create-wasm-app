@@ -1,0 +1,39 @@
+.span {
+  margin-top: 30px;
+  height: 100px;
+
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e6e6e6;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.span > .title {
+  font-size: 28px;
+  font-weight: bold;
+  color: #d0d0d0;
+}
+
+.span > .count {
+  font-size: 30px;
+  font-weight: bold;
+  color: #f4373e;
+}
+
+.yuan {
+  font-size: 24px;
+  color: #282c34;
+}
+
+.price {
+  font-size: 30px;
+  font-weight: bold;
+  color: #282c34;
+}

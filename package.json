@@ -1,0 +1,40 @@
+{
+  "name": "qunliang",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Remax Project With TypeScript",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Kevin Chen <kf@karfield.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "remax build -w -t wechat",
+    "build": "cross-env NODE_ENV=production remax build -t wechat && cp -f *.png ./dist/wechat/",
+    "icons": "npx iconfont-remax"
+  },
+  "dependencies": {
+    "@types/jwt-decode": "^3.1.0",
+    "@types/lru-cache": "^5.1.0",
+    "annar": "^2.0.4",
+    "axios": "^0.21.0",
+    "axios-hooks": "^2.1.0",
+    "axios-miniprogram-adapter": "^0.3.2",
+    "classnames": "latest",
+    "jwt-decode": "^3.1.2",
+    "lru-cache": "^6.0.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "remax": "^2.7.7"
+  },
+  "devDependencies": {
+    "@remax/plugin-less": "^1.0.0",
+    "@types/classnames": "^2.2.10",
+    "@types/react": "^16.9.16",
+    "cross-env": "^7.0.2",
+    "less": "^3.12.2",
+    "node-sass": "^4.14.1",
+    "prettier": "^2.1.2",
+    "remax-iconfont-cli": "^1.1.0",
+    "typescript": "^3.7.3"
+  }
+}

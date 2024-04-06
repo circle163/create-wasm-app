@@ -1,0 +1,32 @@
+
+.wrapper {
+    position: relative;
+    padding: 28px;
+}
+
+.title {
+}
+
+.titleText {
+    font-size: 40px;
+}
+
+.titleBlueText {
+    background: linear-gradient(to top, #1D60AF 0%, #03A9F4 40%, transparent 50%);
+}
+
+.titleRedText {
+    background: linear-gradient(to top, #D0021B 0%, #FC737E 40%, transparent 50%);
+}
+
+.titleYellowText {
+    background: linear-gradient(to top, #FF8500 0%, #FAD961 40%, transparent 50%);
+}
+
+.profits {
+    padding: 34px;
+}
+
+.gap {
+    height: 20px;
+}

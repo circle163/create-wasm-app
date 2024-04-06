@@ -1,0 +1,258 @@
+@import "./../../remax-styles.wxss";
+.background___2ynSu {
+  height: 100%;
+  background-color: #ffffff;
+}
+
+.background___2ynSu > .top___3H_9A {
+  height: 200rpx;
+  background-color: #03a9f4;
+}
+
+.background___2ynSu > .content___3IZpB {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  padding: 28rpx;
+  overflow-y: scroll;
+}
+
+.background___2ynSu > .content___3IZpB > .bottomPadding___i6cvQ {
+  height: 130rpx;
+}
+
+.background___2ynSu > .bottomBar___3jq30 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+
+  width: 100%;
+  height: 128rpx;
+
+  background-color: #ffffff;
+  box-shadow: 0rpx 2rpx 20rpx 0rpx #eaecee;
+}
+
+.wrapper___2OlGz {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.prefix___32U9m {
+  margin-right: 5rpx;
+  font-weight: bold;
+}
+
+.text___1nUsI {
+  color: #ff1c1f;
+}
+
+.button___piYnI {
+  margin-left: 10rpx;
+  border: #d0d0d0 1rpx solid;
+}
+
+.span___cQgrt {
+  margin-top: 30rpx;
+  height: 100rpx;
+
+  border-style: solid;
+  border-width: 1rpx;
+  border-color: #e6e6e6;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  padding-top: 10rpx;
+  padding-bottom: 10rpx;
+}
+
+.span___cQgrt > .title___3mqht {
+  font-size: 28rpx;
+  font-weight: bold;
+  color: #d0d0d0;
+}
+
+.span___cQgrt > .count____H9Mx {
+  font-size: 30rpx;
+  font-weight: bold;
+  color: #f4373e;
+}
+
+.yuan___1zVpP {
+  font-size: 24rpx;
+  color: #282c34;
+}
+
+.price___2yYWE {
+  font-size: 30rpx;
+  font-weight: bold;
+  color: #282c34;
+}
+
+.wrapper___1F7An {
+  margin-top: 40rpx;
+}
+
+.topPadding___3A4-A {
+  height: 50rpx;
+}
+
+.avatarWrapper___Odidr {
+  position: absolute;
+  top: 40rpx;
+  left: 0;
+  width: 100%;
+  height: 100rpx;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.row1___2Vy5X {
+  margin-top: 40rpx;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.row1___2Vy5X > .nickname___2L4Mw {
+  font-size: 30rpx;
+  margin-right: 10rpx;
+}
+
+.row2___I8FcP {
+  margin-top: 30rpx;
+}
+
+.row2___I8FcP > .col___3vZkX {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.row3___3sO__ {
+  margin-top: 30rpx;
+  margin-bottom: 20rpx;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+
+.navButton___fWEkU {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    color: #606060;
+}
+
+.navButton___fWEkU > .text___1mJHN {
+    margin-top: 10rpx;
+}
+
+.highlight___1LCqn {
+    color: #03a9f4;
+    text-shadow:  #03a9f4 0rpx 2rpx 20rpx 0rpx;
+}
+
+.wrapper___3y0Sb {
+  display: block;
+  position: relative;
+  background: #eaecee;
+  padding: 40rpx 30rpx 30rpx;
+}
+
+.row1___3Gao0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.row2___hbgLr {
+  margin-top: 20rpx;
+  color: #606060;
+}
+
+.leftCorner___3v63g {
+  position: absolute;
+  width: 70rpx;
+  height: 70rpx;
+  left: 0;
+  top: 0;
+}
+
+.buttonWrapper___winxr {
+  position: relative;
+}
+
+.buttonWrapper___winxr > .share___1m6sH {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+}
+
+.wrapper___1Xvq- {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+
+  height: 100%;
+}
+
+.title___2D1vF {
+  font-size: 32rpx;
+  color: #282c34;
+}
+
+.title___2D1vF > .highlight___1eMzP {
+  color: #ff892b;
+  font-weight: bold;
+}
+
+.action___2X7uf {
+  padding: 0 28rpx 30rpx;
+}
+
+.shareWrapper___2Jj8a {
+  position: relative;
+}
+
+.shareWrapper___2Jj8a > .share___2v4Mn {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+}
+
+
+.button___2l-Xo {
+  margin: 0;
+  padding: 0;
+  color: #03a9f4;
+  background-color: transparent;
+  border: none;
+}
+

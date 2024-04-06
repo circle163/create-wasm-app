@@ -1,0 +1,71 @@
+.info {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.avatarWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.nickname {
+  font-size: 40px;
+}
+.roaw {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-content: flex-start;
+}
+
+.personalInfo {
+  padding: 0;
+  border: none;
+  margin: 0;
+
+  font-size: 30px;
+  color: #ff892b;
+}
+
+.actions {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.action {
+  position: relative;
+  padding: 0;
+  margin: 0;
+  border: none;
+  background-color: transparent;
+
+  font-size: 28px;
+
+  height: 100px;
+  width: 150px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.actionText {
+  margin-top: 15px;
+  color: #606060;
+}
+
+.wxContact {
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100px;
+  width: 150px;
+  opacity: 0;
+}

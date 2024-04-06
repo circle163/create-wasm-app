@@ -1,0 +1,12 @@
+.block {
+}
+
+.block > .title {
+  font-size: 28px;
+  margin-top: 35px;
+  margin-bottom: 30px;
+}
+
+.block > .content {
+  margin-left: 28px;
+}

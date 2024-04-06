@@ -1,0 +1,17 @@
+
+.navbar {
+    display: flex;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 128px;
+    width: 100%;
+    box-shadow: 0px 2px 20px 0px #eaecee;
+
+    background-color: #ffffff;
+    /*border-top: #606060 1px solid;*/
+
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}

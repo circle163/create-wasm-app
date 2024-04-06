@@ -1,0 +1,21 @@
+.filters {
+}
+
+.filters > .buttonGroup {
+  margin-top: 40px;
+  width: 100%;
+  display: inline-flex;
+  justify-content: center;
+}
+
+.filters > .buttonGroup > .resetButton {
+  width: 300px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+.filters > .buttonGroup > .searchButton {
+  width: 300px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+}

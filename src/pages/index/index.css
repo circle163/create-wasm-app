@@ -1,0 +1,53 @@
+.home {
+  padding: 28px;
+}
+
+.searchLine {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.searchLine > .searchBarWrapper {
+  display: inline-block;
+  width: calc(100% - 100px);
+}
+
+.searchLine > .searchFiltersButton {
+  display: inline-block;
+  margin: 0;
+}
+
+.scrollView {
+  height: 100%;
+  overflow-scrolling: auto;
+}
+
+.error {
+  padding: 80px 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.errorTitle {
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.buttonWrapper {
+  position: relative;
+  width: fit-content;
+  height: fit-content;
+}
+
+.getUserInfo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+}

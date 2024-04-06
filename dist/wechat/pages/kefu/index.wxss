@@ -1,0 +1,27 @@
+.kefu___1x4AG {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.kefu___1x4AG > .qr___abVpV {
+}
+
+.kefu___1x4AG > .note___zKIc0 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 20rpx;
+}
+
+.kefu___1x4AG > .note___zKIc0 > .title___7UmQu {
+  font-weight: 500;
+  margin-bottom: 16rpx;
+}
+
+.kefu___1x4AG > .note___zKIc0 > .content___3dbNb {
+}
+
